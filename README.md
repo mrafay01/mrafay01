@@ -10,12 +10,12 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
 I am a **Full Stack Web Developer** passionate about building **modern, scalable, and high-performance web applications**.
 I enjoy turning ideas into **real-world digital products** and continuously improving my development workflow.
 
-### 💡 What I Do
+### What I Do
 
 * 💻 Working as a **Full Stack Web Developer**
 * ⚡ Building applications using **NestJS, Next.js, React, Node.js, and Python**
@@ -26,7 +26,7 @@ I enjoy turning ideas into **real-world digital products** and continuously impr
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nextjs,react,nestjs,nodejs,express,python,mongodb,postgres,js,ts,git,github,vscode,postman,tailwind&perline=8" />
@@ -34,7 +34,7 @@ I enjoy turning ideas into **real-world digital products** and continuously impr
 
 ---
 
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 
@@ -50,7 +50,7 @@ I enjoy turning ideas into **real-world digital products** and continuously impr
 
 ---
 
-# 🌐 Connect With Me
+# Connect With Me
 
 <p align="center">
 
